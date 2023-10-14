@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div style="width: 1440px; height: 5557px; position: relative; background: #73D2DE">
+    <div style="width: 1440px; height: 965px; left: 0px; top: 0px; position: absolute">
+      <div style="width: 1440px; height: 965px; left: 0px; top: 0px; position: absolute; background: #218380"></div>
+
+      <div style="left: 300px; top: 364px; position: absolute; color: white; font-size: 150px; font-family:Arial, Helvetica, sans-serif font-weight: 400; word-wrap: break-word">AMIGOFIEL</div>
+      <div style="width: 96px; left: 405px; top: 623px; position: absolute; color: white; font-size: 30px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word"><a href="MenuShop.html" target="_blank" rel="noopener noreferrer">Shop</a></div>
+      <div style="width: 160px; left: 532px; top: 623px; position: absolute; color: white; font-size: 30px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word"><a href="MenuServico.html" target="_blank" rel="noopener noreferrer">Serviços</a></div>
+      <div style="width: 152px; left: 723px; top: 623px; position: absolute; color: white; font-size: 30px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word"><a href="MenuContato.html" target="_blank" rel="noopener noreferrer">Contato</a></div>
+      <div style="width: 152px; left: 906px; top: 623px; position: absolute; color: white; font-size: 30px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word">Entrar</div>
+    </div>
+    <div style="width: 1212px; height: 2198px; left: 114px; top: 1067px; position: absolute">
+      <div style="width: 590px; height: 186px; left: 622px; top: 108px; position: absolute; color: #4A4A4A; font-size: 24px; font-family: Space Grotesk; font-weight: 700; line-height: 34.80px; word-wrap: break-word">Entre no reino do Amigo Fiel, onde você descobrirá o companheiro peludo ideal, dará risadas até ficar sem fôlego e, crucialmente, entrará no diverso universo dos animais de estimação! A vida é muito curta para estar privada de focinhos úmidos, abanadas alegres e aventuras esplêndidas.</div>
+      <div style="left: 622px; top: 0px; position: absolute; color: #4A4A4A; font-size: 60px; font-family: Oi; font-weight: 400; word-wrap: break-word">Bem Vindo!</div>
+      <div style="width: 574px; height: 590px; left: 0px; top: 554px; position: absolute; background: #4A4A4A; border-radius: 60px"></div>
+      <div style="left: 0px; top: 1176px; position: absolute; color: #4A4A4A; font-size: 35px; font-family: Oi; font-weight: 400; word-wrap: break-word">canto do gatinho</div>
+      <div style="width: 574px; height: 590px; left: 630px; top: 554px; position: absolute; background: #4A4A4A; border-radius: 60px"></div>
+      <div style="left: 626px; top: 1176px; position: absolute; color: #4A4A4A; font-size: 35px; font-family: Oi; font-weight: 400; word-wrap: break-word">club do cãozinho</div>
+      <div style="width: 574px; height: 590px; left: 0px; top: 1417px; position: absolute; background: #4A4A4A; border-radius: 60px"></div>
+      <div style="left: 1px; top: 2034px; position: absolute; color: #4A4A4A; font-size: 35px; font-family: Oi; font-weight: 400; word-wrap: break-word">mundo aquático</div>
+      <div style="width: 574px; height: 590px; left: 627px; top: 1417px; position: absolute; background: #4A4A4A; border-radius: 60px"></div>
+      <div style="left: 627px; top: 2034px; position: absolute; color: #4A4A4A; font-size: 35px; font-family: Oi; font-weight: 400; word-wrap: break-word">pequenas patas</div>
+      <div style="width: 472px; left: 0px; top: 1241px; position: absolute; color: white; font-size: 25px; font-family: Space Grotesk; font-weight: 400; word-wrap: break-word">Onde carinhos suaves e ronronares infinitos proporcionam uma alegria indescritível ao seu coração.</div>
+      <div style="width: 447px; left: 626px; top: 1241px; position: absolute; color: white; font-size: 25px; font-family: Space Grotesk; font-weight: 400; word-wrap: break-word">Nada é mais leal do que um amigo de quatro patas e sua cauda abanando ao seu lado.</div>
+      <div style="width: 464px; left: 1px; top: 2102px; position: absolute; color: white; font-size: 25px; font-family: Space Grotesk; font-weight: 400; word-wrap: break-word">Um paraíso hipnotizante debaixo d'água para aqueles que desejam um toque de serenidade.</div>
+      <div style="width: 403px; left: 627px; top: 2102px; position: absolute; color: white; font-size: 25px; font-family: Space Grotesk; font-weight: 400; word-wrap: break-word">Descubra o mundo brincalhão dos roedores adoráveis e das criaturinhas travessas.</div>
+    </div>
+    <div style="width: 1193px; height: 1016.01px; left: 123px; top: 3567.99px; position: absolute">
+      <div style="left: 1px; top: 428.01px; position: absolute; color: white; font-size: 60px; font-family: Oi; font-weight: 400; word-wrap: break-word">FAQ</div>
+      <div style="left: 0px; top: 629.01px; position: absolute; color: #4A4A4A; font-size: 25px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word">Vocês oferecem entrega domicílio?</div>
+      <div style="left: 658px; top: 629.01px; position: absolute; color: #4A4A4A; font-size: 25px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word">Qual é a política de devolução?</div>
+      <div style="left: 1px; top: 883.01px; position: absolute; color: #4A4A4A; font-size: 25px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word">Vocês fornecem serviços banho e tosa?</div>
+      <div style="left: 658px; top: 883.01px; position: absolute; color: #4A4A4A; font-size: 25px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word">Assinaturas de alimentos estão disponíveis?</div>
+      <div style="width: 501px; left: 0px; top: 677.01px; position: absolute; color: white; font-size: 23px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word">Com certeza! Nós oferecemos entrega em domicílio conveniente e pontual para todos os nossos clientes Amigo Fiel.</div>
+      <div style="width: 501px; left: 658px; top: 677.01px; position: absolute; color: white; font-size: 23px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word">Garanta a felicidade do seu animal de estimação com nossa política de devolução de 30 dias, sem perguntas!</div>
+      <div style="width: 501px; left: 1px; top: 929.01px; position: absolute; color: white; font-size: 23px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word">Sim, oferecemos serviços de banho e tosa de última geração para gatos, cachorros e até mesmo pequenos peludos!</div>
+      <div style="width: 501px; left: 658px; top: 929.01px; position: absolute; color: white; font-size: 23px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word">Com certeza! Assine nossos planos de alimentos para animais de estimação para entregas mensais sem complicações!</div>
+    </div>
+    <div style="left: 500px; top: 4809px; position: absolute; color: white; font-size: 60px; font-family: Oi; font-weight: 400; word-wrap: break-word">Junte-se Agora!</div>
+    <div style="width: 686px; left: 377px; top: 4904px; position: absolute; text-align: center; color: #4A4A4A; font-size: 25px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word">Pronto para uma aventura incrível? Embarque na jornada Amigo Fiel e deixe nossos amigos peludos mudarem sua vida para melhor.</div>
+    <div style="width: 98px; height: 52px; left: 671px; top: 5024px; position: absolute; background: white; border-radius: 20px"></div>
+    <div style="left: 684px; top: 5034px; position: absolute; text-align: center; color: #9F4B6E; font-size: 25px; font-family: Space Grotesk; font-weight: 500; word-wrap: break-word">Entrar</div>
+    <div style="left: 598px; top: 5388px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word">Amigo Fiel Pet Shop 2023</div>
+  </div>
+</body>
+</html>
