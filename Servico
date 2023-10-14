@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+    <div style="width: 1440px; height: 3294px; position: relative; background: #73D2DE">
+        <div style="width: 1440px; height: 223px; left: 0px; top: 0px; position: absolute">
+          <div style="width: 1440px; height: 188px; left: 0px; top: 0px; position: absolute; background: #218380"></div>
+          <div style="width: 1289px; height: 168px; left: 151px; top: 55px; position: absolute; color: white; font-size: 50px; font-family: Oi; font-weight: 400; word-wrap: break-word"><a href="PetShopAmigoFiel.html">AMIGOFIEL</a></div>
+          <div style="width: 108px; height: 26px; left: 720px; top: 64px; position: absolute; color: white; font-size: 30px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word"><a href="MenuShop.html">Shop</a></div>
+          <div style="width: 150px; height: 48px; left: 862px; top: 62px; position: absolute; border-radius: 70px; border: 2px white solid"></div>
+          <div style="width: 148px; height: 22px; left: 874px; top: 67px; position: absolute; color: white; font-size: 30px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word">Serviços</div>
+          <div style="width: 141px; height: 22px; left: 1068px; top: 64px; position: absolute; color: white; font-size: 30px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word">Contato</div>
+          <div style="width: 141px; height: 22px; left: 1255px; top: 65px; position: absolute; color: white; font-size: 30px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word">Entrar</div>
+        </div>
+        <div style="width: 1328px; height: 480px; left: 50px; top: 223px; position: absolute">
+          <div style="width: 1328px; height: 480px; left: 0px; top: 0px; position: absolute; background: #73D2DE; box-shadow: 0px 0px 50px 10px rgba(33, 131, 128, 0.15); border-radius: 70px"></div>
+          <div style="left: 59px; top: 118px; position: absolute; color: #4A4A4A; font-size: 60px; font-family: Oi; font-weight: 400; word-wrap: break-word">Banho e Tosa</div>
+          <div style="width: 400px; height: 400px; left: 847px; top: 35px; position: absolute; background: #4A4A4A; border-radius: 60px"></div>
+          <div style="width: 472px; left: 59px; top: 213px; position: absolute; color: white; font-size: 35px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word">Seu pet bem cuidado.</div>
+          <div style="width: 250px; height: 100px; left: 59px; top: 299px; position: absolute; background: #4A4A4A; border-radius: 60px"></div>
+          <div style="width: 147px; left: 110px; top: 322px; position: absolute; color: white; font-size: 35px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word">Agendar</div>
+        </div>
+        <div style="width: 1328px; height: 480px; left: 63px; top: 834px; position: absolute">
+          <div style="width: 1328px; height: 480px; left: 0px; top: 0px; position: absolute; background: #73D2DE; box-shadow: 0px 0px 50px 10px rgba(33, 131, 128, 0.15); border-radius: 70px"></div>
+          <div style="left: 773px; top: 67px; position: absolute; color: #4A4A4A; font-size: 60px; font-family: Oi; font-weight: 400; word-wrap: break-word">Consultas</div>
+          <div style="width: 400px; height: 400px; left: 47px; top: 40px; position: absolute; background: #4A4A4A; border-radius: 60px"></div>
+          <div style="width: 555px; left: 740px; top: 162px; position: absolute; color: white; font-size: 35px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word">Com os melhores profissionais.</div>
+          <div style="width: 250px; height: 100px; left: 664px; top: 259px; position: absolute; background: #4A4A4A; border-radius: 60px"></div>
+          <div style="width: 147px; left: 721px; top: 287px; position: absolute; color: white; font-size: 35px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word"><a href="MenuConsultas.html" target="_blank" rel="noopener noreferrer">Agendar</a></div>
+          <div style="width: 288px; height: 100px; left: 974px; top: 259px; position: absolute; background: #4A4A4A; border-radius: 60px"></div>
+          <div style="width: 249px; left: 1013px; top: 287px; position: absolute; color: white; font-size: 35px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word">Emergências</div>
+        </div>
+        <div style="width: 1328px; height: 480px; left: 50px; top: 1487px; position: absolute">
+          <div style="width: 1328px; height: 480px; left: 0px; top: 0px; position: absolute; background: #73D2DE; box-shadow: 0px 0px 50px 10px rgba(33, 131, 128, 0.15); border-radius: 70px"></div>
+          <div style="left: 62px; top: 123px; position: absolute; color: #4A4A4A; font-size: 60px; font-family: Oi; font-weight: 400; word-wrap: break-word">Adoção</div>
+          <div style="width: 400px; height: 400px; left: 878px; top: 40px; position: absolute; background: #4A4A4A; border-radius: 60px"></div>
+          <div style="width: 472px; left: 63px; top: 218px; position: absolute; color: white; font-size: 35px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word">Encontre um novo amigo!</div>
+          <div style="width: 250px; height: 100px; left: 62px; top: 304px; position: absolute; background: #4A4A4A; border-radius: 60px"></div>
+          <div style="width: 172px; left: 104px; top: 332px; position: absolute; color: white; font-size: 35px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word">Conhecer</div>
+        </div>
+        <div style="width: 1092.76px; height: 834px; left: 182px; top: 2311px; position: absolute">
+          <div style="left: 350px; top: 229px; position: absolute; color: white; font-size: 60px; font-family: Oi; font-weight: 400; word-wrap: break-word">Junte-se Agora!</div>
+          <div style="width: 686px; left: 213px; top: 324px; position: absolute; text-align: center; color: #4A4A4A; font-size: 25px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word">Pronto para uma aventura incrível? Embarque na jornada Amigo Fiel e deixe nossos amigos peludos mudarem sua vida para melhor.</div>
+          <div style="width: 98px; height: 52px; left: 507px; top: 444px; position: absolute; background: white; border-radius: 20px"></div>
+          <div style="left: 520px; top: 454px; position: absolute; text-align: center; color: #9F4B6E; font-size: 25px; font-family: Space Grotesk; font-weight: 500; word-wrap: break-word">Entrar</div>
+          <div style="left: 434px; top: 808px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Space Grotesk; font-weight: 700; word-wrap: break-word">Amigo Fiel Pet Shop 2023</div>
+          <div style="width: 1092.76px; height: 129.01px; left: 0px; top: 0px; position: absolute">
+            </div>
+        </div>
+      </div>
+</body>
+</html>
